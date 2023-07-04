@@ -1,0 +1,18 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+.container { 
+    width: 500px;
+    background-color: gold;
+    text-align: center;
+}
+
+ul, ol {
+    text-align: left;
+}
+
+ul {
+    font-size: 15pt;
+}

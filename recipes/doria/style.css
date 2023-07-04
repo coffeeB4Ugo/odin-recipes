@@ -1,0 +1,26 @@
+img {
+    height: 300px;
+    width: auto;
+}
+
+.container {
+    width: 500px;
+    background-color: orange;
+    border: 2px brown;
+}
+
+body {
+    text-align: center;
+    color: white;
+}
+ul, ol {
+    text-align: left;
+}
+
+h1, h2, h3 {
+    color: brown;
+}
+
+p, li {
+    font-size: 13pt;
+}
